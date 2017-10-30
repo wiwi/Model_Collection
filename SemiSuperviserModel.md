@@ -16,6 +16,7 @@
 
 0. other resources
 - TensorFlow-VAE-GAN-DRAW: https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
+- VAE: https://github.com/altosaar/variational-autoencoder
 
 # GAN based
 1. Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks(arXiv:http://arxiv.org/abs/1511.06390)
