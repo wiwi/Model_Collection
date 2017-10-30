@@ -13,7 +13,13 @@
 3. Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks(arXiv: https://arxiv.org/abs/1701.04722)
 - https://github.com/LMescheder/AdversarialVariationalBayes
 
+
 0. other resources
 - TensorFlow-VAE-GAN-DRAW: https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
 
 # GAN based
+1. Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks(arXiv:http://arxiv.org/abs/1511.06390)
+- Chainer: https://github.com/smayru/catgan
+
+2. Improved Techniques for Training GANs
+- Theano and Lasagne: https://github.com/openai/improved-gan
