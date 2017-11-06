@@ -24,3 +24,7 @@
 
 2. Improved Techniques for Training GANs
 - Theano and Lasagne: https://github.com/openai/improved-gan
+
+3. SSGAN(Semi-supervised Learning Generative Adversarial Networks, https://arxiv.org/abs/1606.01583)
+- Tensorflow: https://github.com/gitlimlab/SSGAN-Tensorflow
+- Keras: https://github.com/samrussell/ssgan
