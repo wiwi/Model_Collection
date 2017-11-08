@@ -13,10 +13,17 @@
 3. Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks(arXiv: https://arxiv.org/abs/1701.04722)
 - https://github.com/LMescheder/AdversarialVariationalBayes
 
+4. Semi-supervised Ladder Network (https://arxiv.org/abs/1507.02672)
+- mnist_ladder.py in Parmesan: https://github.com/casperkaae/parmesan/tree/master/examples
+- Theano: https://github.com/CuriousAI/ladder
+
+5. Auxiliary Deep Generative Models (https://arxiv.org/abs/1602.05473)
+- Theano & Lasagne: https://github.com/larsmaaloee/auxiliary-deep-generative-models
 
 0. other resources
 - TensorFlow-VAE-GAN-DRAW: https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
 - VAE: https://github.com/altosaar/variational-autoencoder
+- Parmesan: a library adding variational and semi-supervised neural network models to the neural network library Lasagne. https://github.com/casperkaae/parmesan
 
 # GAN based
 1. Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks(arXiv:http://arxiv.org/abs/1511.06390)
