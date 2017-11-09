@@ -37,3 +37,7 @@
 3. SSGAN(Semi-supervised Learning Generative Adversarial Networks, https://arxiv.org/abs/1606.01583)
 - Tensorflow: https://github.com/gitlimlab/SSGAN-Tensorflow
 - Keras: https://github.com/samrussell/ssgan
+
+# Others
+1. Temporal Ensembling for Semi-Supervised Learning (https://arxiv.org/abs/1610.02242): result looks very good
+- Theano(Author): https://github.com/smlaine2/tempens
