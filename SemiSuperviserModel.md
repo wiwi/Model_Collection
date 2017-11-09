@@ -9,6 +9,7 @@
 2. Semi-Supervised Learning with Deep Generative Models (arXiv: http://arxiv.org/abs/1406.5298)
 - Chainer: https://github.com/musyoku/variational-autoencoder
 - Theano(Author): http://github.com/dpkingma/nips14-ssl
+- Tensorflow: https://github.com/saemundsson/semisupervised_vae
 
 3. Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks(arXiv: https://arxiv.org/abs/1701.04722)
 - https://github.com/LMescheder/AdversarialVariationalBayes
