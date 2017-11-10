@@ -20,6 +20,7 @@
 
 5. Auxiliary Deep Generative Models (https://arxiv.org/abs/1602.05473)
 - Theano & Lasagne: https://github.com/larsmaaloee/auxiliary-deep-generative-models or https://github.com/ml-lab/auxiliary-deep-generative-models
+- Chainer: https://github.com/musyoku/adgm
 
 0. other resources
 - TensorFlow-VAE-GAN-DRAW: https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
