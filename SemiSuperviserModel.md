@@ -20,7 +20,7 @@
 - Pytorch: https://github.com/jibancanyang/Semi-supervised_Neural_Network
 
 5. Auxiliary Deep Generative Models (https://arxiv.org/abs/1602.05473)
-- Theano & Lasagne: https://github.com/larsmaaloee/auxiliary-deep-generative-models or https://github.com/ml-lab/auxiliary-deep-generative-models
+- Theano & Lasagne: https://github.com/larsmaaloee/auxiliary-deep-generative-models (SDGM) or https://github.com/ml-lab/auxiliary-deep-generative-models (ADGM)
 - Chainer: https://github.com/musyoku/adgm
 
 0. other resources
