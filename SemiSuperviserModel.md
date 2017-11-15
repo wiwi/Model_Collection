@@ -14,9 +14,10 @@
 3. Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks(arXiv: https://arxiv.org/abs/1701.04722)
 - https://github.com/LMescheder/AdversarialVariationalBayes
 
-4. Semi-supervised Ladder Network (https://arxiv.org/abs/1507.02672)
+4. Semi-Supervised Learning with Ladder Networks (https://arxiv.org/abs/1507.02672)
 - mnist_ladder.py in Parmesan: https://github.com/casperkaae/parmesan/tree/master/examples
 - Theano: https://github.com/CuriousAI/ladder
+- Pytorch: https://github.com/jibancanyang/Semi-supervised_Neural_Network
 
 5. Auxiliary Deep Generative Models (https://arxiv.org/abs/1602.05473)
 - Theano & Lasagne: https://github.com/larsmaaloee/auxiliary-deep-generative-models or https://github.com/ml-lab/auxiliary-deep-generative-models
