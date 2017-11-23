@@ -27,10 +27,10 @@
 
 6. Virtual Adversarial Training
     1. Virtual Adversarial Training: a Regularization Method for Supervised and Semi-supervised Learning (https://arxiv.org/abs/1704.03976)
-  - Tensorflow(Author): https://github.com/takerum/vat_tf (Chainer: https://github.com/takerum/vat_chainer)
-  - Tensorflow: https://github.com/yufuinn/vat
-  2) Distributional Smoothing with Virtual Adversarial Training (https://arxiv.org/abs/1507.00677)
-  - Chainer: https://github.com/musyoku/vat
+    - Tensorflow(Author): https://github.com/takerum/vat_tf (Chainer: https://github.com/takerum/vat_chainer)
+    - Tensorflow: https://github.com/yufuinn/vat
+    2. Distributional Smoothing with Virtual Adversarial Training (https://arxiv.org/abs/1507.00677)
+    - Chainer: https://github.com/musyoku/vat
 
 0. other resources
 - TensorFlow-VAE-GAN-DRAW: https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
