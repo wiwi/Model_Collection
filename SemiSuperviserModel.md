@@ -25,6 +25,11 @@
 - Theano & Lasagne: https://github.com/larsmaaloee/auxiliary-deep-generative-models (SDGM) or https://github.com/ml-lab/auxiliary-deep-generative-models (ADGM)
 - Chainer: https://github.com/musyoku/adgm
 
+6. Virtual Adversarial Training
+  Virtual Adversarial Training: a Regularization Method for Supervised and Semi-supervised Learning (https://arxiv.org/abs/1704.03976)
+- Tensorflow(Author): https://github.com/takerum/vat_tf (or https://github.com/takerum/vat_chainer on Chainer)
+- Distributional Smoothing with Virtual Adversarial Training(https://arxiv.org/abs/1507.00677): https://github.com/musyoku/vat
+
 0. other resources
 - TensorFlow-VAE-GAN-DRAW: https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
 - VAE: https://github.com/altosaar/variational-autoencoder
