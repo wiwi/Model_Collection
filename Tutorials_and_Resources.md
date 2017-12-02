@@ -8,3 +8,4 @@
 1. DeepLearningZeroToAll: https://github.com/hunkim/DeepLearningZeroToAll
 2. Simple tutorials using Google's TensorFlow Framework: https://github.com/nlintz/TensorFlow-Tutorials
 3. Interesting applications of Tensorflow: https://github.com/pkmital/tensorflow_tutorials
+4. TensorFlow - A curated list of dedicated resources: https://github.com/jtoy/awesome-tensorflow
