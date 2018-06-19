@@ -60,4 +60,3 @@
 
 4. Smooth Neighbors on Teacher Graphs for Semi-Supervised Learning
 - Theano(Author): https://github.com/xinmei9322/SNTG
-
